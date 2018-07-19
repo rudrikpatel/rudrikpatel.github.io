@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zymr.lorealclaims",
+    "sha256_cert_fingerprints":
+    ["E6:2B:F4:B3:E5:CC:64:08:EA:FB:19:2E:8D:6B:78:FE:FA:53:35:97:AC:C6:FD:63:1C:71:83:68:A5:B3:DF:82"]
+  }
+}]
